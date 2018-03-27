@@ -1,6 +1,6 @@
 # Braces-template-method-transform
 
-Braces-template-method-transform is a toolkit for v-method directive in Braces-template. it can add '__braces__.' to the global identifies in the v-mehtod's code.
+Braces-template-method-transform is a toolkit for v-method directive in Braces-template. it can add " \_\_braces\_\_." to the global identifies in the v-mehtod's code.
 
 ## Installation
 
